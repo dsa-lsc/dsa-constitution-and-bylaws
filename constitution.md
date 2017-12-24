@@ -133,16 +133,18 @@ The Conference Planning Committee for the National Activist Conference shall inc
 ## Article VIII. National Political Committee
 ### Section 1.
 The National Political Committee (NPC) shall be the collective leadership and the highest decision-making body of the organization between meetings of the Convention.
-It shall meet at least four times a year.
 
 ### Section 2.
+The NPC shall meet at least four times a year.
+
+### Section 3.
 The members of the NPC shall be one representative of the Youth Section and 16 delegates elected at the national convention.
 Of the elected members, no more than eight shall be men and at least five shall be racial or national minority members of DSA.
 In the event that these minority positions are not filled at the Convention, the position(s) shall be filled by the NPC, except that only minority members of DSA may be elected to fill such vacancies.
 In case of other such vacancies, except a vacancy of the Youth Section Representative, the NPC shall appoint a member of the organization in good standing to serve until the next Convention.
 No person shall serve simultaneously on the National Staff and the NPC.
 
-### Section 3.
+### Section 4.
 The National Political Committee shall elect a Steering Committee (SC).
 It shall be constituted as follows:
 
@@ -156,22 +158,22 @@ It shall meet at least bimonthly, in person or by conference call.
 In person meetings of the SC shall be open to all members of the organization.
 However, the SC may hold executive sessions if 60% of its members vote to do so in order to discuss personnel and related financial matters.
 
-### Section 4.
+### Section 5.
 The at-large members of the NPC shall act as liaisons to the Commissions and the Regional, State and Local organizations as prescribed by the Bylaws.
 The NPC shall have responsibility for staff, finances, publications, and education.
 
-### Section 5.
+### Section 6.
 A quorum of the NPC shall be more than half of its members.
 The NPC shall assume office immediately upon its election to serve a two-year term or until its successors are elected.
 
-### Section 6.
+### Section 7.
 Meetings of the NPC shall be open to all members of the organization.
 However, the NPC may hold executive sessions if 60% of its members vote to do so in order to discuss personnel and related financial matters.
 
-### Section 7.
+### Section 8.
 An NPC member may be removed for malfeasance or nonfeasance by a two-thirds vote of the NPC, with nonfeasance defined to include unexcused absences from two or more consecutive meetings.
 
-### Section 8.
+### Section 9.
 The NPC shall be responsible for hiring and discharging staff as necessary.
 
 ## Article IX. National Advisory Committee
