@@ -135,7 +135,7 @@ The Conference Planning Committee for the National Activist Conference shall inc
 The National Political Committee (NPC) shall be the collective leadership and the highest decision-making body of the organization between meetings of the Convention.
 
 ### Section 2.
-The NPC shall meet at least four times a year.
+The NPC shall meet at least monthly. At least four of the meetings shall be in person, and others may be held electronically.
 
 ### Section 3.
 The members of the NPC shall be one representative of the Youth Section and 16 delegates elected at the national convention.
