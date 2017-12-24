@@ -140,7 +140,7 @@ The members of the NPC shall be one representative of the Youth Section and 16 d
 Of the elected members, no more than eight shall be men and at least five shall be racial or national minority members of DSA.
 In the event that these minority positions are not filled at the Convention, the position(s) shall be filled by the NPC, except that only minority members of DSA may be elected to fill such vacancies.
 In case of other such vacancies, except a vacancy of the Youth Section Representative, the NPC shall appoint a member of the organization in good standing to serve until the next Convention.
-No person shall serve simultaneously on the National Staff and the NPC.
+No person shall serve simultaneously on the National Staff and the NPC, nor serve on the NPC while holding an elected office in a local chapter.
 
 ### Section 3.
 The National Political Committee shall elect a Steering Committee (SC).
