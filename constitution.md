@@ -133,6 +133,7 @@ The Conference Planning Committee for the National Activist Conference shall inc
 ## Article VIII. National Political Committee
 ### Section 1.
 The National Political Committee (NPC) shall be the collective leadership and the highest decision-making body of the organization between meetings of the Convention.
+The NPC shall be tasked with building consensus within the membership regarding the direction of the organization, and enacting that direction.
 
 ### Section 2.
 The NPC shall meet at least four times a year.
@@ -175,6 +176,10 @@ An NPC member may be removed for malfeasance or nonfeasance by a two-thirds vote
 
 ### Section 9.
 The NPC shall be responsible for hiring and discharging staff as necessary.
+
+### Section 10.
+The NPC will use a consensus-building process such as in [A Short Guide To Consensus Building](https://publicdisputes.mit.edu/short-guide-consensus-building).
+This shall include at a minimum: identifying and consulting stakeholders, use of neutral facilitators, and efforts to satisfy concerns of holdouts.
 
 ## Article IX. National Advisory Committee
 ### Section 1.
