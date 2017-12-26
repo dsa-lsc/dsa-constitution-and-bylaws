@@ -128,6 +128,7 @@ These committees shall include at least one member of the NPC in addition to the
 These committees may include a Pre-Convention Planning Committee, a Credentials Committee, a Rules Committee, a Resolutions Committee and a Personnel/Nominating Committee.
 When a committee continues to serve during the Convention, the delegate body must ratify its membership.
 Membership in committees established to consider resolutions at the convention will be open to all delegates who are not already members of another such committee.
+The NPC and Resolutions Committee shall ensure that a fair financial analysis of each resolution is provided to the convention.
 To help build organizational consensus, the NPC and Resolutions Committee shall ensure that authors of each resolution are connected with other stakeholders in the subject of the resolution well in advance of the deadline for final resolution language.
 
 ### Section 5.
