@@ -94,11 +94,11 @@ Calls to Special Conventions shall be issued by the petition calling such Conven
 ## Article VI. Officers and Staff
 ### Section 1.
 The officers of this organization shall be the directors, the Secretary-Treasurer and the members of the Steering Committee of the NPC.
-There shall be one or two directors who shall be full time staff members as defined in Article IX of the DSA Bylaws.
+There shall be two directors who shall be full time staff members as defined in Article IX of the DSA Bylaws.
 All of these officers shall perform the duties prescribed by this Constitution, the Bylaws and the standing rules.
 
 ### Section 2.
-The Director(s) shall be hired by the NPC according to the procedures set out in the DSA Bylaws.
+The Directors shall be hired according to the procedures set out in the DSA Bylaws.
 The Secretary-Treasurer shall be elected annually by a majority of the NPC and shall serve until a successor has been chosen.
 
 ### Section 3.
@@ -107,7 +107,7 @@ Any member of the organization is eligible to hold any office.
 ### Section 4.
 The duties of the officers shall include the following:
 
-The Director(s) shall be members of the full-time staff and shall be the official spokesperson(s) of the organization.
+The Directors shall be members of the full-time staff and shall be the official spokesperson(s) of the organization.
 The Secretary-Treasurer shall present a detailed financial report at the first plenary session on the first full day of each Convention and perform such duties as outlined in the Bylaws and prescribed by the NPC.
 
 ### Section 5.

@@ -153,13 +153,12 @@ These offices may be assigned National responsibilities.
 
 ## Article IX. Staff
 ### Section 1.
-The NPC shall hire no more than two National Directors, who shall be responsible for the functioning of the National Office(s) and staff, shall report on staff activities to the National Convention and shall have specific duties as prescribed by the NPC.
-An announcement of any open directorship shall be published.
-Application shall be made to a Personnel Committee of the NPC.
-This committee shall make recommendations to the NPC, which shall have final approval for hiring.
+The Convention shall elect two National Directors, who shall be responsible for the functioning of the National Office(s) and staff, shall regularly report on staff activities to the membership and shall have specific duties as prescribed by the NPC.
+The term of office of the National Directors shall commence 4 weeks after their election at the convention.
+In the event of a vacancy in the position of National Director, the position shall be filled by [special election|NPC appointment].
 
 ### Section 2.
-The Director(s) may hire additional staff in order to aid the functioning of the National Office(s).
+The Directors may hire additional staff in order to aid the functioning of the National Office(s).
 Announcements of open staff positions will be published.
 The NPC shall have final approval of hiring.
 
@@ -188,7 +187,7 @@ After the meeting the NPC or a committee thereof shall publish a report, separat
 The NPC may appoint committees to supervise specific work; these shall report to the NPC.
 They will include:
 
-A Finance and Budget Committee which will regularly review with the Director(s) the financial situation of the organization.
+A Finance and Budget Committee which will regularly review with the Directors the financial situation of the organization.
 It will prepare an annual budget; such preparation may be delegated to staff persons in consultation with the chair of the committee.
 It will direct a fund-raising program.
 The Secretary-Treasurer shall serve as a member or an ex officio member of the committee.
