@@ -154,6 +154,7 @@ These offices may be assigned National responsibilities.
 ## Article IX. Staff
 ### Section 1.
 The Convention shall elect two National Directors, who shall be responsible for the functioning of the National Office(s) and staff, shall regularly report on staff activities to the membership and shall have specific duties as prescribed by the NPC.
+Both National Directors may not be cis men.
 The term of office of the National Directors shall commence 4 weeks after their election at the convention.
 In the event of a vacancy in the position of National Director, the position shall be filled by [special election|NPC appointment].
 The salary of each National Director shall be equal to the US median household income for the previous year, and they shall receive the same benefits package as other full-time staff.
