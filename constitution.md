@@ -33,8 +33,8 @@ There shall be yearly dues, the amount of which shall be determined by the NPC p
 
 ## Article IV. Local, State, Regional Organizations and Sections
 ### Section 1.
-Local organizations, called Locals, may be chartered by the National Political Committee upon application of 15 or more members.
-The NPC may charter Locals of 10 or more in special circumstances as defined in the Bylaws.
+Local organizations, called Locals, may, upon application of 15 or more members, be chartered by the National Political Committee or by a State or Regional organization that covers the geographical area of the Local.
+Locals of 10 or more may be chartered in special circumstances as defined in the Bylaws.
 
 ### Section 2.
 The NPC may not charter more than one Local in a given city/metropolitan area.

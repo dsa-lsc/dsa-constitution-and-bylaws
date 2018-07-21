@@ -55,7 +55,7 @@ It shall contain provisions for informing all members of meetings and procedures
 Each Local shall submit to the National Office information about the financial status of the Local.
 
 ### Section 3.
-Groups of five or more members in a geographic area may become Organizing Committees upon approval of the NPC.
+Groups of five or more members in a geographic area may become Organizing Committees upon approval of the NPC or a State or Regional Organization that covers the area.
 Such Committees may become Locals upon attainment of the requirements described in Section 1 of this Article.
 Such Organizing Committees shall receive from the National Office information relevant to the formation of a Local, including criteria for chartering, and such guidelines for Local work and policy as are adopted by the NPC.
 
