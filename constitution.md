@@ -138,6 +138,7 @@ It shall meet at least four times a year.
 ### Section 2.
 The members of the NPC shall be one representative of the Youth Section and 16 delegates elected at the national convention.
 Of the elected members, no more than half shall be men and at least one fifth shall be racial or national minority members of DSA.
+Candidates for NPC shall report their national income decile for the previous year, and of the elected members at least one quarter must be below the median and one eighth in the bottom two deciles.
 In the event that these minority positions are not filled at the Convention, the position(s) shall be filled by the NPC, except that only minority members of DSA may be elected to fill such vacancies.
 In case of other such vacancies, except a vacancy of the Youth Section Representative, the NPC shall appoint a member of the organization in good standing to serve until the next Convention.
 No person shall serve simultaneously on the National Staff and the NPC.
