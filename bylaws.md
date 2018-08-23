@@ -54,6 +54,7 @@ It shall contain provisions for the annual election, by the general membership, 
 It shall contain provisions for informing all members of meetings and procedures for the election, by the general membership, of officers and delegates to National, Regional and State bodies and of decisions of the Local.
 It shall contain provisions for recall of any elected position.
 It shall contain provisions allowing for members to place an item on the agenda for an upcoming meeting by petition of no more than the greater of 5% of members or 5 members.
+It shall contain provisions for allowing the recognition of self-organized caucuses of 5 or more members, and permitting these caucuses to announce their meetings to the local membership.
 Each Local shall submit to the National Office information about the financial status of the Local.
 
 ### Section 3.
