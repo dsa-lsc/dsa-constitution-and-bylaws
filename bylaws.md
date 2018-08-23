@@ -48,7 +48,7 @@ Special circumstances are defined to include the establishment of Locals in area
 The NPC shall produce a Standard New Local Constitution by which all newly chartered Locals shall operate.
 New Locals shall elect leadership in accordance with the Standard New Local Constitution.
 The Local’s members may vote to ratify a new Constitution, at which time the Local shall submit to the National Office a file copy of their Constitution (and any subsequent changes therein).
-Such Constitution shall contain provisions which call for at least six meetings per year of the Local, all but one of which may be held in branches.
+Such Constitution shall contain provisions which call for membership meetings of the Local, or branches thereof, no less than every two months, and at least one membership meeting annually for the entire Local membership.
 It shall contain provisions for making constitutional amendments.
 It shall contain provisions for the annual election, by the general membership, of officers of the Local.
 It shall contain provisions for informing all members of meetings and procedures for the election, by the general membership, of officers and delegates to National, Regional and State bodies and of decisions of the Local.
