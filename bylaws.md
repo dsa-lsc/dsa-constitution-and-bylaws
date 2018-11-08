@@ -51,7 +51,8 @@ The Local’s members may vote to ratify a new Constitution, at which time the L
 Such Constitution shall contain provisions which call for membership meetings of the Local, or branches thereof, no less than every two months, and at least one membership meeting annually for the entire Local membership.
 It shall contain provisions for the membership to make constitutional amendments.
 It shall contain provisions for the annual election, by the general membership, of officers of the Local.
-It shall contain provisions for informing all members of meetings and procedures for the election, by the general membership, of officers and delegates to National, Regional and State bodies and of decisions of the Local.
+It shall contain provisions for informing all members of meetings and of decisions of the Local.
+It shall contain provisions for the election, by the general membership, of officers and delegates to National, Regional and State bodies, and for nomination for these elections by petition of no more than 5 members.
 It shall contain provisions for recall of any elected position.
 It shall contain provisions allowing for members to place an item on the agenda for an upcoming meeting by petition of no more than the greater of 5% of members or 5 members.
 It shall contain provisions for allowing the recognition of self-organized caucuses of 5 or more members, and permitting these caucuses to announce their meetings to the local membership.
