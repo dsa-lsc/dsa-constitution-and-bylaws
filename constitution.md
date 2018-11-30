@@ -91,7 +91,31 @@ No voting at National Conventions shall be secret.
 Calls to the National Convention shall be issued by the NPC at least 100 days prior to the opening date of the Convention.
 Calls to Special Conventions shall be issued by the petition calling such Convention, providing that the date is set between 30 and 60 days from the issuing of the call.
 
-## Article VI. Officers and Staff
+## Article VI. National Referenda
+### Section 1.
+The NPC shall administrate an online voting system for members to vote in National Referenda.
+Between conventions, only a National Referendum may override a resolution of the Convention.
+A National Referendum may override decisions of the National Political Committee or bind the NPC to any action permitted by the Constitution, Bylaws, and applicable laws.
+Any office elected at the Convention may be vacated by a National Referendum majority vote.
+
+### Section 2.
+The NPC may call a National Referendum by majority vote.
+Members may call a National Referendum by petition from 2% of members.
+Chapters may call a National Referendum by petition of chapters representing 25% of members.
+Petition signatures and verification thereof shall be by email.
+
+### Section 3.
+Calls to Referendum will be announced to members within 7 days of reciept.
+Voting will open 7 days after the announcement to members is made.
+All members in good standing having joined at least 90 days prior to the start of each referendum vote will be eligible for that vote.
+Voting will be open 14 days.
+Every member eligible to vote will be notified electronically when voting opens, and 24 hours before voting closes.
+
+### Section 4.
+A quorum of 8% of eligible members must vote for a referendum vote to be valid.
+
+
+## Article VII. Officers and Staff
 ### Section 1.
 The officers of this organization shall be the directors, the Secretary-Treasurer and the members of the Steering Committee of the NPC.
 There shall be one or two directors who shall be full time staff members as defined in Article IX of the DSA Bylaws.
@@ -120,7 +144,7 @@ To be nominated or to be elected, a candidate for National Chair or Co-Chair mus
 The National Chair(s) shall be the primary spokesperson(s) for the organization, reporting directly to the National Political Committee.
 Following the National Convention where this Section is adopted or if the position of National Chair or Co-Chair becomes vacant between conventions, a National Chair or Co-Chairs may be selected by a 2/3 vote of the National Political Committee.
 
-## Article VII. National Activist Conference
+## Article VIII. National Activist Conference
 ### Section 1.
 A National Activist Conference shall be held at least once between Conventions in the year in which a Convention is not held.
 
@@ -130,9 +154,9 @@ The National Activist Conference shall include the officers of the National orga
 ### Section 3.
 The Conference Planning Committee for the National Activist Conference shall include members of the NPC, chairs of Commissions and a Youth Section representative.
 
-## Article VIII. National Political Committee
+## Article IX. National Political Committee
 ### Section 1.
-The National Political Committee (NPC) shall be the collective leadership and the highest decision-making body of the organization between meetings of the Convention.
+The National Political Committee (NPC) shall be the collective leadership of the organization, serving membership by coordinating activities as directed by Convention and by National Referenda.
 It shall meet at least four times a year.
 
 ### Section 2.
@@ -174,7 +198,7 @@ An NPC member may be removed for malfeasance or nonfeasance by a two-thirds vote
 ### Section 8.
 The NPC shall be responsible for hiring and discharging staff as necessary.
 
-## Article IX. National Advisory Committee
+## Article X. National Advisory Committee
 ### Section 1.
 Members of the National Advisory Committee shall be available to consult with the NPC and the officers of the organization.
 It shall, however, have no decision-making authority.
@@ -183,18 +207,18 @@ It shall, however, have no decision-making authority.
 Members of the National Advisory Committee shall be chosen by the NPC and must be members of the Democratic Socialists of America.
 In electing members to the NAC, the NPC shall act so as to ensure fair representation of women, genderqueers, and minorities.
 
-## Article X. Commissions
+## Article XI. Commissions
 ### Section 1.
 Commissions may be chartered by the NPC as prescribed in the Bylaws.
 
 ### Section 2.
 Requirements for membership and for the election of leadership of each Commission shall be determined by the NPC.
 
-## Article XI. Dissolution
+## Article XII. Dissolution
 In the event of the dissolution of the Democratic Socialists of America, all remaining funds and assets are to be released to such other organizations that are organized exclusively for the promotion of social welfare and that will operate to further the common good and general welfare of the community.
 
-## Article XII. Parliamentary Authority
+## Article XIII. Parliamentary Authority
 The rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern the organization in all cases to which they are applicable and in which they are not inconsistent with this Constitution or the Bylaws or standing rules of the organization.
 
-## Article XIII. Amendments
+## Article XIV. Amendments
 This Constitution may be amended at a National Convention by a two-thirds vote of the delegates voting and present provided that written notice of such amendments has been given to members one month prior to the Convention.
