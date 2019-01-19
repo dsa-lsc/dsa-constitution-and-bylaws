@@ -102,7 +102,7 @@ Any office elected at the Convention may be vacated by a National Referendum maj
 The NPC may call a National Referendum by majority vote.
 Members may call a National Referendum by petition from 2% of members.
 Chapters may call a National Referendum by petition of chapters representing 25% of members.
-Petition signatures and verification thereof shall be by email.
+Signatures for petition may be gathered in person or electronically.
 
 ### Section 3.
 Calls to Referendum will be announced to members within 7 days of reciept.
