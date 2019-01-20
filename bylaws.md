@@ -213,7 +213,28 @@ Commissions shall function within guidelines developed by the NPC and shall be s
 ### Section 3.
 Chairs of Commissions must be approved by the NPC.
 
-## Article XII. Publications
+## Article XII. National Working Groups
+### Section 1.
+Charters shall be granted to National Working Groups upon submission of an application which contains a petition of at least 50 members from at least 10 different Locals, and a Constitution that meets the requirements in Section 2.
+
+### Section 2.
+Each Working Group shall have a Constitution.
+Such Constitution shall describe an area of work that is compatible with the purpose of DSA.
+It shall contain provisions allowing any member of DSA to join and restricting membership to DSA members.
+It shall contain provisions for official communication channels to allow communication between all members of the Working Group.
+It shall contain provisions for the membership of the Working Group to make democratic decisions electronically.
+It shall contain provisions for making constitutional amendments.
+It shall contain provisions for the election and recall of one or two liaisons to National DSA and any other officers of the Working Group.
+Working Groups will regularly update National DSA as to their membership, the outcomes of elections, and any constitutional amendments.
+
+### Section 3.
+A Working Group Exploratory Committee may be formed by submitting a petition of at least 10 members from at least 3 different locals.
+Such Committees may become Working Groups upon attainment of the requirements described in Section 1 of this Article.
+
+### Section 4.
+Charters for Working Groups may be revoked by the NPC or the Convention if it is found to be working contrary to the principles, practices and policies of the organization, or if the Working Group does not function for an extended period of time.
+
+## Article XIII. Publications
 ### Section 1.
 There shall be two general and regular publications of the organization.
 These shall be an outreach publication and a discussion bulletin.
@@ -230,10 +251,10 @@ Editorial responsibility for the general outreach publication and the discussion
 ### Section 3.
 Funding for publications shall be provided in the organizational budget.
 
-## Article XIII. Polls
+## Article XIV. Polls
 Polls of the members on specific issues may be held upon petition of one-half of the Locals or one-third of the members.
 Such polls shall be advisory and not binding.
 
-## Article XIV. Amendments
+## Article XV. Amendments
 These Bylaws may be amended at a National Convention by a three-fifths vote of the delegates voting and present provided that written notice of such amendments has been given to members one month prior to the Convention.
 The Bylaws may also be amended by majority at a National Convention if the amendments in question have been discussed at an NPC meeting at least three months prior to the Convention.
