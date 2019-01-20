@@ -74,15 +74,23 @@ Model Constitutions shall be available from the National Office.
 State Organizations shall submit changes in the Constitution and financial information to the National Office on a regular basis.
 
 ### Section 3.
+Groups of five or more members within a state boundary, not from the same local, may become a State Organizing Committee on submission of a petition to National DSA including approval from two or more Locals within the state, if there is not yet a State Organization or State Organizing Committee for the state.
+Such Committees may become State Organizations upon attainment of the requirements in Section 1.
+
+### Section 4.
 Charters shall be granted to Regional Organizations upon submission of an application which contains a proposed Constitution for the Region, a description of the geographic boundaries of the Region, and the signatures of the officers of at least three Locals already chartered within the proposed boundaries of the Region.
 Upon receipt of the application, all Local and State Organizations with the Region shall be polled regarding the establishment of said Regional Organization.
 
-### Section 4.
+### Section 5.
 The Constitution for the Regional Organization shall include provisions for the holding of at least one Regional meeting annually, for the potential establishment of subregions within the Regions, and for the election of officers and for the election of State and Local representatives to the State Organization.
 Model Constitutions shall be available from the National Office.
 Regions shall submit changes in the Constitution and financial information to the National Office on a regular basis.
 
-### Section 5.
+### Section 6.
+Groups of five or more members in a geographic area, not from the same local, may become a Regional Organizing Committee on submission of a petition to National DSA including approval from three or more Locals in the area.
+Such Committees may become Regional Organizations upon attainment of the requirements in Section 4.
+
+### Section 7.
 Charters for State or Regional Organizations may be revoked by the NPC if the State or Regional Organization is found to have substantial disagreement with the principles, practices and policies of the organization or if fewer than two Locals are chartered within a state or fewer than three Locals are chartered within a Region.
 A Regional Charter may also be revoked upon petition of a majority of Locals within a Region.
 Such petition shall include the reasons for revocation.
