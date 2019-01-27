@@ -180,11 +180,15 @@ The agendas for the NPC meetings will be proposed by the SC and announced to mem
 These shall include, on a regular basis, discussion and supervision of staff, finances, publications, education, general political direction and coalition work.
 
 ### Section 3.
+Requests to the NPC for expenditures greater than 1% of the income for the previous year shall be made available to membership no later than 30 days prior to the meeting of the NPC.
+Any amendments to these requests shall be made available to membership no later than 10 days prior to the meeting.
+
+### Section 4.
 Pressing issues may be placed on an agenda for an NPC meeting by a petition of 20% of locals and 8% of members.
 The SC shall publish the language of a petition at the time that it is successfully submitted and call for comments from the general membership.
 After the meeting the NPC or a committee thereof shall publish a report, separate from the normal minutes, detailing the debate surrounding the petitioned issue and any decisions that were made to address it.
 
-### Section 4.
+### Section 5.
 The NPC may appoint committees to supervise specific work; these shall report to the NPC.
 They will include:
 
@@ -195,10 +199,10 @@ The Secretary-Treasurer shall serve as a member or an ex officio member of the c
 A Personnel Committee which will periodically review staff performance, and fulfill other responsibilities assigned by the NPC.
 Editorial Boards for the general publications of the organization which will supervise and edit these publications.
 At the first meeting following their appointment, NPC committees shall elect from among their number a chair who shall be responsible for the organization of the committee, that is, for calling meetings, for notifying members of the meetings, for preparing agendas, for producing and distributing minutes to members, and for informing the NPC of the committee’s work.
-### Section 5.
+### Section 6.
 The NPC will meet in varying areas of the country as is financially feasible.
 
-### Section 6.
+### Section 7.
 Election of at-large members of the NPC shall take place at the National Convention under procedures set forth by the Nominating/Personnel Committee except that preferential voting will be used to elect at-large members of the NPC.
 
 ## Article XI. Commissions
