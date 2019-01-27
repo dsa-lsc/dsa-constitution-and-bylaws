@@ -176,7 +176,7 @@ They shall facilitate the relationship between the National Organization and tho
 They shall work with the appropriate staff persons in carrying out these responsibilities.
 
 ### Section 2.
-The agendas for the NPC meetings will be proposed by the SC.
+The agendas for the NPC meetings will be proposed by the SC and announced to membership 14 days in advance.
 These shall include, on a regular basis, discussion and supervision of staff, finances, publications, education, general political direction and coalition work.
 
 ### Section 3.
