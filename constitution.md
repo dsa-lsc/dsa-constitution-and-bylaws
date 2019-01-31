@@ -155,7 +155,7 @@ The SC shall be responsible for coordinating the execution of decisions of the N
 It shall be responsible for planning meetings and agendas for the NPC and for coordinating the work of the committees of the NPC.
 A quorum of the SC shall be two thirds of its voting members, and votes of the SC shall take two thirds to pass.
 It shall meet at least bimonthly, in person or by conference call.
-In person meetings of the SC shall be open to all members of the organization.
+Meetings of the SC shall be open to all members of the organization.
 However, the SC may hold executive sessions if 60% of its members vote to do so in order to discuss personnel and related financial matters.
 
 ### Section 4.
