@@ -151,7 +151,7 @@ The members of the SC shall be elected at Convention.
 Vacancies on the SC may be filled by the NPC.
 It shall include no more than three men and at least one person of color.
 The National Director and the Youth Section Organizer shall be ex officio members, without vote, of the SC.
-The SC shall be responsible for decision-making between meetings of the NPC and for the supervision of all offices and staff of the organization.
+The SC shall be responsible for coordinating the execution of decisions of the NPC and for the supervision of all offices and staff of the organization.
 It shall be responsible for planning meetings and agendas for the NPC and for coordinating the work of the committees of the NPC.
 A quorum of the SC shall be half of its voting members.
 It shall meet at least bimonthly, in person or by conference call.
