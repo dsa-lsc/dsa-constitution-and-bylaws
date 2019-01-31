@@ -157,7 +157,7 @@ A quorum of the SC shall be two thirds of its voting members, and votes of the S
 It shall meet at least bimonthly, in person or by conference call.
 Any communication leading to a binding decision of the body shall be considered a meeting.
 Meetings of the SC shall be open to all members of the organization.
-However, the SC may hold executive sessions if 60% of its members vote to do so in order to discuss personnel and related financial matters.
+However, the SC may hold executive sessions if 75% of its members vote to do so in order to discuss matters related to staffing or grievances filed pursuant to the current national DSA grievance policy.
 
 ### Section 4.
 The at-large members of the NPC shall act as liaisons to the Commissions and the Regional, State and Local organizations as prescribed by the Bylaws.
