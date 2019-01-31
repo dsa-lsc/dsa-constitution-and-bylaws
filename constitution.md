@@ -148,7 +148,7 @@ It shall be constituted as follows:
 
 It shall be composed of five members of the NPC, and the Youth Section representative to the NPC.
 The members of the SC shall be elected at Convention.
-Vacancies on the SC may be filled by the NPC.
+Vacancies on the SC may be filled by the NPC using a Ranked Pairs election.
 It shall include no more than three men and at least one person of color.
 The National Director and the Youth Section Organizer shall be ex officio members, without vote, of the SC.
 The SC shall be responsible for coordinating the execution of decisions of the NPC and for the supervision of all offices and staff of the organization.
