@@ -143,10 +143,12 @@ In case of other such vacancies, except a vacancy of the Youth Section Represent
 No person shall serve simultaneously on the National Staff and the NPC.
 
 ### Section 3.
-The National Political Committee shall elect a Steering Committee (SC).
+The National Political Committee shall have a Steering Committee (SC).
 It shall be constituted as follows:
 
-It shall be composed of the five people who shall be elected by the NPC from among its at-large members, and the Youth Section representative to the NPC.
+It shall be composed of five members of the NPC, and the Youth Section representative to the NPC.
+The members of the SC shall be elected at Convention.
+Vacancies on the SC may be filled by the NPC.
 It shall include no more than three men and at least one person of color.
 The National Director and the Youth Section Organizer shall be ex officio members, without vote, of the SC.
 The SC shall be responsible for decision-making between meetings of the NPC and for the supervision of all offices and staff of the organization.
