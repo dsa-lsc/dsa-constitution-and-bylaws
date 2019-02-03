@@ -93,7 +93,7 @@ Calls to Special Conventions shall be issued by the petition calling such Conven
 
 ## Article VI. Officers and Staff
 ### Section 1.
-The officers of this organization shall be the directors, the Secretary-Treasurer and the members of the Steering Committee of the NPC.
+The officers of this organization shall be the directors, the Secretary-Treasurer and five members elected by the NPC.
 There shall be one or two directors who shall be full time staff members as defined in Article IX of the DSA Bylaws.
 All of these officers shall perform the duties prescribed by this Constitution, the Bylaws and the standing rules.
 
@@ -143,35 +143,21 @@ In case of other such vacancies, except a vacancy of the Youth Section Represent
 No person shall serve simultaneously on the National Staff and the NPC.
 
 ### Section 3.
-The National Political Committee shall elect a Steering Committee (SC).
-It shall be constituted as follows:
-
-It shall be composed of the five people who shall be elected by the NPC from among its at-large members, and the Youth Section representative to the NPC.
-It shall include no more than three men and at least one person of color.
-The National Director and the Youth Section Organizer shall be ex officio members, without vote, of the SC.
-The SC shall be responsible for decision-making between meetings of the NPC and for the supervision of all offices and staff of the organization.
-It shall be responsible for planning meetings and agendas for the NPC and for coordinating the work of the committees of the NPC.
-A quorum of the SC shall be half of its voting members.
-It shall meet at least bimonthly, in person or by conference call.
-In person meetings of the SC shall be open to all members of the organization.
-However, the SC may hold executive sessions if 60% of its members vote to do so in order to discuss personnel and related financial matters.
-
-### Section 4.
 The at-large members of the NPC shall act as liaisons to the Commissions and the Regional, State and Local organizations as prescribed by the Bylaws.
 The NPC shall have responsibility for staff, finances, publications, and education.
 
-### Section 5.
+### Section 4.
 A quorum of the NPC shall be more than half of its members.
 The NPC shall assume office immediately upon its election to serve a two-year term or until its successors are elected.
 
-### Section 6.
+### Section 5.
 Meetings of the NPC shall be open to all members of the organization.
 However, the NPC may hold executive sessions if 60% of its members vote to do so in order to discuss personnel and related financial matters.
 
-### Section 7.
+### Section 6.
 An NPC member may be removed for malfeasance or nonfeasance by a two-thirds vote of the NPC, with nonfeasance defined to include unexcused absences from two or more consecutive meetings.
 
-### Section 8.
+### Section 7.
 The NPC shall be responsible for hiring and discharging staff as necessary.
 
 ## Article IX. National Advisory Committee

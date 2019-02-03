@@ -176,18 +176,13 @@ They shall facilitate the relationship between the National Organization and tho
 They shall work with the appropriate staff persons in carrying out these responsibilities.
 
 ### Section 2.
-The agendas for the NPC meetings will be proposed by the SC.
-These shall include, on a regular basis, discussion and supervision of staff, finances, publications, education, general political direction and coalition work.
+Agendas for the NPC meetings shall include, on a regular basis, discussion and supervision of staff, finances, publications, education, general political direction and coalition work.
 
 ### Section 3.
-Pressing issues may be placed on an agenda for an NPC meeting by a petition of 20% of locals and 8% of members.
-The SC shall publish the language of a petition at the time that it is successfully submitted and call for comments from the general membership.
-After the meeting the NPC or a committee thereof shall publish a report, separate from the normal minutes, detailing the debate surrounding the petitioned issue and any decisions that were made to address it.
-
-### Section 4.
 The NPC may appoint committees to supervise specific work; these shall report to the NPC.
 They will include:
 
+An Agenda Committee which will develop the agendas for NPC meetings, and report to membership on the operation of the NPC.
 A Finance and Budget Committee which will regularly review with the Director(s) the financial situation of the organization.
 It will prepare an annual budget; such preparation may be delegated to staff persons in consultation with the chair of the committee.
 It will direct a fund-raising program.
